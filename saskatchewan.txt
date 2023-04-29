@@ -1,0 +1,306 @@
+Aberdeen
+Abernethy
+Air Ronge
+Alameda
+Allan
+Alvena
+Amisk Lake
+Arborfield
+Archerwill
+Asquith
+Assiniboia
+Avonlea
+Balcarres
+Balgonie
+Battleford
+Beauval
+Beechy
+Bengough
+Bethune
+Bienfait
+Biggar
+Birsay
+Blaine Lake
+Borden
+Bradwell
+Brancepeth
+Broadview
+Brock
+Bruno
+Buchanan
+Buffalo Narrows
+Burstall
+Cabri
+Canora
+Canwood
+Carievale
+Carlyle
+Carnduff
+Caronport
+Carrot River
+Central Butte
+Choiceland
+Churchbridge
+Clavet
+Climax
+Cochin
+Coleville
+Colonsay
+Consul
+Coronach
+Coteau
+Craik
+Creighton
+Crooked River
+Cupar
+Cut Knife
+Dalmeny
+Davidson
+Debden
+Delisle
+Denzil
+Dillon
+Dinsmore
+Disley
+Dorintosh
+Duck Lake
+Dundurn
+Dysart
+Earl Grey
+Eastend
+Eatonia
+Edam
+Elbow
+Elfros
+Elrose
+Emerald Park
+Endeavour
+Esterhazy
+Eston
+Estevan
+Eyebrow
+Fairlight
+Fillmore
+Findlater
+Flaxcombe
+Foam Lake
+Fort Qu'Appelle
+Fosston
+Fox Valley
+Francis
+Frontier
+Frobisher
+Gainsborough
+Glaslyn
+Glenavon
+Glenside
+Goodsoil
+Gravelbourg
+Grayson
+Green Lake
+Grenfell
+Griffin
+Gull Lake
+Hafford
+Hague
+Hanley
+Harris
+Hawarden
+Hazlet
+Hepburn
+Herbert
+Herschel
+Hillmond
+Hodgeville
+Holdfast
+Hudson Bay
+Humboldt
+Ile-A-La-Crosse
+Imperial
+Indian Head
+Invermay
+Ituna
+Jansen
+Kamsack
+Kelliher
+Kelvington
+Kenaston
+Kendal
+Kerrobert
+Kindersley
+Kinistino
+Kincaid
+Kipling
+Kisbey
+Kyle
+La Loche
+La Ronge
+Lafleche
+Laird
+Lancer
+Landis
+Lang
+Langenburg
+Langham
+Lanigan
+Lashburn
+Leader
+Leask
+Leoville
+Lestock
+Liberty
+Limerick
+Lipton
+Loon Lake
+Loreburn
+Lucky Lake
+Lumsden
+Luseland
+Macklin
+Macoun
+Maidstone
+Makwa
+Mankota
+Manor
+Maple Creek
+Marcelin
+Marengo
+Marsden
+Martensville
+Maryfield
+Maymont
+Meadow Lake
+Meath Park
+Medstead
+Melfort
+Melville
+Mendham
+Midale
+Middle Lake
+Milden
+Milestone
+Minton
+Mistatim
+Montmartre
+Moose Jaw
+Moosomin
+Morse
+Mossbank
+Netherhill
+Neudorf
+Neville
+Nipawin
+Norquay
+North Battleford
+North Portal
+Odessa
+Ogema
+Osler
+Outlook
+Oxbow
+Paradise Hill
+Parkside
+Paynton
+Pelican Narrows
+Pelly
+Pennant
+Perdue
+Pierceland
+Pilot Butte
+Pinehouse
+Plenty
+Preeceville
+Primate
+Prince Albert
+Quill Lake
+Qu'Appelle
+Radisson
+Radville
+Rapid View
+Raymore
+Redvers
+Regina
+Richmound
+Riverhurst
+Rocanville
+Rockglen
+Rose Valley
+Rosetown
+Rosthern
+Rouleau
+Saltcoats
+Saskatoon
+Scott
+Shaunavon
+Shell Lake
+Shellbrook
+Sceptre
+Semans
+Shaunavon
+Sheho
+Simpson
+Sintaluta
+Smeaton
+Southend
+Spalding
+Speers
+Spiritwood
+Springside
+Spruce Home
+St. Brieux
+St. Gregor
+St. Louis
+St. Walburg
+Stenen
+Stockholm
+Stony Rapids
+Storthoaks
+Stoughton
+Strasbourg
+Strongfield
+Sturgis
+Swift Current
+Tantallon
+Theodore
+Tisdale
+Tompkins
+Torquay
+Tramping Lake
+Tribune
+Tugaske
+Turtleford
+Unity
+Uranium City
+Val Marie
+Vanguard
+Vanscoy
+Vibank
+Viscount
+Wadena
+Wakaw
+Waldeck
+Waldheim
+Wapella
+Warman
+Waskesiu Lake
+Watson
+Wawota
+Webb
+Weekes
+Weirdale
+Welwyn
+West Bend
+West Poplar
+White City
+Whitewood
+Wilcox
+Wilkie
+Willow Bunch
+Windthorst
+Wiseton
+Wolseley
+Wymark
+Wynyard
+Yellow Creek
+Yorkton
+Zenon Park
